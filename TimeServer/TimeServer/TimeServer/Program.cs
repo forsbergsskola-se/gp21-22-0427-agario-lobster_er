@@ -4,9 +4,9 @@ using System.Net.Sockets;
 using System.Text;
 using System.IO;
 
-//namespace TimeServer;
+namespace TimeServer;
 
-/*public static class Program {
+public static class Program {
     static void Main(string[] arguments)
     {
         TcpListener? server = null;
@@ -46,11 +46,11 @@ using System.IO;
             server?.Stop();
         }
     }
-}*/
+}
 
 
 
-// start listening to new connections on the given socket
+/*// start listening to new connections on the given socket
 var tcpListener = new TcpListener(IPAddress.Any, 12244);
 tcpListener.Start();
 
@@ -82,4 +82,4 @@ while (true)
         Console.WriteLine($"Closing the connection to {tcpClient.Client.RemoteEndPoint}");
         tcpClient.Dispose();
     }).Start();
-}
+}*/
