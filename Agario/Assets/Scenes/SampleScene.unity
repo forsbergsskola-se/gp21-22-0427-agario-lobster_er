@@ -216,6 +216,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1657641254}
   - component: {fileID: 1657641253}
+  - component: {fileID: 1657641258}
   - component: {fileID: 1657641256}
   - component: {fileID: 1657641255}
   - component: {fileID: 1657641257}
@@ -312,7 +313,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1657641252}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -331,6 +332,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   increase: 1
   decrease: -0.5
+--- !u!54 &1657641258
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1657641252}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &2034696379
 GameObject:
   m_ObjectHideFlags: 0
