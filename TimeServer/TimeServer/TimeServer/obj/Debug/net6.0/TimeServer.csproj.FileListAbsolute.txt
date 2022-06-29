@@ -1,0 +1,15 @@
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.exe
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.deps.json
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.runtimeconfig.json
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.dll
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\bin\Debug\net6.0\ref\TimeServer.dll
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.pdb
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.csproj.AssemblyReference.cache
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.AssemblyInfoInputs.cache
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.AssemblyInfo.cs
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.csproj.CoreCompileInputs.cache
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.dll
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\ref\TimeServer.dll
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.pdb
+C:\Projects\gp21-22-0427-agario-lobster_er\TimeServer\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.genruntimeconfig.cache
